@@ -1,0 +1,65 @@
+
+
+Slide 0: Introduction
+ Good morning everyone.  I am Mohamed Merzouk from PyWeb. I work in customer support. 
+Welcome to my presentation. I'm excited to present the concept for the CreativeAnimals website.
+
+Slide 1: index
+
+These are the topics I am going to talk about. feel free to ask any questions during my presentation. 
+
+Slide 2: Business Overview
+ CreativeAnimals is a business dedicated to fostering creativity and connection among animal lovers.   Moreover, clients can buy products and services for onwer pets'
+
+
+Slide 3: Website Objectives
+   Commercial:we would like to  drive sales of unique animalrelated products.
+   Dynamic: we aim to engage users with interactive and regularly updated content.
+   Secure:  we will prioritize user data and transaction security.
+   Social Networking: the idea is  to foster a community of animal enthusiasts.
+   Additional Features: there will be a Mailing list, a blog, and video clips.
+
+
+Slide 4: Website Structure
+   Homepage:it is  commercially driven with featured products.
+   Blog Section: clients will be able to share valuable content, updates, and stories.
+   Product Pages:  we will build a secure and userfriendly ecommerce platform.
+   Social Hub: our website  will encourage social networking through forums, discussions, and usergenerated content.
+
+
+Slide 5: Design Elements
+   Engaging Visuals: there will be Highquality images and videos of products and animals.
+   UserFriendly Interface:  clients will be able to  navigate the website easily for a seamless xperience.
+   Responsive Design:our website will ensure optimal viewing on various devices.
+
+
+Slide 6: Social Networking Integration
+   User Profiles: the page will allow users to create profiles, share their pet stories, and connect with others.
+   Forums/Groups:the page will have  edicated spaces for discussions on various animalrelated topics.
+
+
+Slide 7: Additional Decisions
+
+   Ecommerce Platform: We recommend using Shopify as the ecommerce platform for CreativeAnimal
+   Security Measures:  To ensure the security of user data and transactions, we will implement SSL encryption for data transmission, 
+   Content Management System (CMS): your website has got the best Management System
+   Hosting Solution: use secure payment gateways such as Stripe or PayPal, and regularly update security patches. 
+
+
+Slide 8: Technological Features
+ Technological Features:
+   HTML5: this is  a modern and responsive design.
+   Video Clips:  they  will provide integration for engaging content.
+   Mailing List: we will use it to  Capture and retain user engagement.
+
+
+Slide 9: Next Steps:
+   If you give us your approval, we will begin a detailed planning and development, w
+   Launch and Marketing Strategies.
+
+
+Closing Slide
+
+ Thank you for your attention. The CreativeAnimals website aims to be a dynamic, engaging, and secure platform for animal lovers. I look forward to bringing this vision to life. Any questions or feedback?
+
+
