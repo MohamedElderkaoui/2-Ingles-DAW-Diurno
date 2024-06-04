@@ -41,7 +41,7 @@ Slide 6: Social Networking Integration
 Slide 7: Additional Decisions
 
    Ecommerce Platform: We recommend using Shopify as the ecommerce platform for CreativeAnimal
-   Security Measures:  To ensure the security of user data and transactions, we will implement SSL encryption for data transmission, 
+   Security Measures:  WE ensure the security of user data and transactions, we will implement SSL encryption for data transmission, 
    Content Management System (CMS): your website has got the best Management System
    Hosting Solution: use secure payment gateways such as Stripe or PayPal, and regularly update security patches. 
 
